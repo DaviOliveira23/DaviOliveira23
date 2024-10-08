@@ -1,4 +1,4 @@
-<h1 align="left">Oii, eu sou o Davi, desenvolvedor fullstack, prazer!!</h1>
+<h1 align="left">Olá, eu sou o Davi, desenvolvedor fullstack, prazer!!</h1>
 
 ###
 
