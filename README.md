@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">✨ Desenvolvendo desde 2023<br>📚 Tecnólogo em sistemas para internet 3°<br>🎯 Meta: Entrar no mercado de trabalho</p>
+<p align="left">✨ Desenvolvendo desde 2023<br>📚 Tecnólogo em sistemas para internet 4° Semestre<br>🎯 Meta: Entrar no mercado de trabalho</p>
 
 ###
 
